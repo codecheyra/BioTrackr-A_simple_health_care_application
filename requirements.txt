@@ -1,0 +1,15 @@
+streamlit
+supabase
+pdfminer.six
+pytesseract
+pdf2image
+pdfminer
+pdfminer.six
+Pillow
+altair_saver
+selenium
+python-dotenv
+altair_viewer
+vl-convert-python
+huggingface-hub
+transformers
