@@ -657,12 +657,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE). You may modify or redistribute under the same terms. (Create a `LICENSE` file if you choose MIT.)
-
----
-
 ## 🙏 Acknowledgments
 
 * [Supabase](https://supabase.com/) for the managed Postgres, Auth, and Storage.
